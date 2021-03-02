@@ -1,7 +1,13 @@
 {
-  "description": "EMIT Foundation issued the first limited NFTs - Builders Medal (01)",
+  "description": "The first limited NFTs issued by EMIT Foundation - Builders Medal (01) - (100 pieces in total)",
   "external_url": "https://emit.technology",
   "image": "https://emit.technology/nft/medal/builders/01.png",
   "name": "EMIT Builders Medal (01)",
-  "attributes": []
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1614692709
+    }
+  ]
 }
